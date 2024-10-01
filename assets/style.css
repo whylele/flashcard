@@ -1,4 +1,11 @@
 body{
-    background-color: hotpink;
-    font-family: ;
+    background-color: rgb(238, 148, 205);
+    font-family: 'Bai Jamjuree';
 }
+
+#container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem
