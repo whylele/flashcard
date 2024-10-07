@@ -1,43 +1,79 @@
+:root{
+    --text-color: #f87bcc;
+    --card-front-color: #80147e;
+    --card-back-color: #f40072;
+}
+
 body{
-    background-color: rgb(251, 168, 211);
+    background: url('img/bg-desktop.webp');
     font-family: 'Bai Jamjuree';
 }
 
-#container{
+#container {
     display: flex;
 }
 
 .cartao{
-    margin: 1rem 1rem;
-    background-color: rgb(241, 58, 116);
+    margin: 1rem rem;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 6rem);
+    flex-basis: calc(35% - 6rm);
 }
 
 .cartao__conteudo {
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao__conteudo h3 {
-    background-color: black;
-    text-align: left;
+    color: var(--text-color);
+    border: 1px solid var(--tex-color);
+    text-aling: left;
     padding: 0.5rem;
     position: absolute;
-    margin: 0.6rem;
+    margin: 0,6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 }
 
-.cartao__conteudo p {
+.cartao__conteudo p{
     margin-top: 1rem;
     padding: 2rem;
+    margin-top: 4rem;
 }
 
-footer {
+.cartao__conteudo__peergunta p{
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.cartao__conteudo__resposta p{
+    color: var(--card-back-color);
+    font-weight: 700;
+}
+
+.cartao:hover .cartao__conteudo {
+    transform: rotatey(180deg);
+}
+
+.cartao__conteudo__pergunta,
+.cartao__conteudo__resposta{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.cartao__conteudo__resposta {
+    transform: rotateY;(180deg);
+}
+footer{
     background-color: black;
-    color: rgb(224, 218, 218);
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -47,5 +83,5 @@ footer {
 footer p {
     text-align: center;
     font-size: 0.6rem;
-    margin-top: 5.0rem;
+    margin-top; 0.5rem;
 }
