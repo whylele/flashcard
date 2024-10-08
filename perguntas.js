@@ -1,7 +1,7 @@
 criaCartao(
     'Hello Kitty',
-    'Qual è a altura da Hello Kitty',
-    'equivalente a 5 maças empilhadas',
+    'Quem è Hello Kitty',
+    'A Hello Kitty é uma garota feliz e divertida, que adora espalhar alegria pelo mundo. Ela mora com seus pais e sua irmã gêmea, Mimmy,em Londres, na Inglaterra. Seu lema é: “Muitos amigos nunca são demais!” Por isso, ela está sempre cercada de amigos e adora fazer novas amizades. Sua altura é equivalente a 5 maças empilhadas',
 )
 
 criaCartao(
