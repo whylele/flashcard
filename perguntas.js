@@ -12,14 +12,14 @@ criaCartao(
 
 criaCartao(
     'Kuromi',
-    'Pergunta',
-    'Resposta',
+    'Quem é Kuromi',
+    'Kuromi é muito bagunceira e sempre causa confusões. Por trás de sua aparência radical, ela é super feminina. Adora escrever em seu diário e ler romances. Sua cor preferida é a preta. Ela é amiga da My Melody, mas encara essa amizade com uma certa competição.',
 )
 
 criaCartao(
     'Cinnamoroll',
-    'Pergunta',
-    'Resposta',
+    'Quem é Cinnamoroll',
+    'O Cinnamoroll é um filhote de cachorro branco que se parece com uma nuvem macia. Ele tem o rabinho enrolado como um biscoitinho de canela (Cinnamon Roll) e pode voar batendo suas enormes orelhas. Ele é o mascote oficial do Café Cinnamon e gosta de tirar sonecas no colo dos clientes.',
 )
 
 criaCartao(
@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'Keroppi',
-    'Pergunta',
-    'Resposta',
+    'Quem é Keroppi?',
+    'O Keroppi é um sapinho que mora com sua família em uma grande casa a beira do lago Donut. Ele e seus amigos adoram jogos, especialmente beisebol e bumerangue. Na maior parte do tempo, ele está com seu melhor amigo, a lesminha Denden.',
 )
