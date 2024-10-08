@@ -35,7 +35,7 @@ body{
 .cartao__conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--tex-color);
-    text-aling: left;
+    text-align: left;
     padding: 0.5rem;
     position: absolute;
     margin: 0,6rem;
@@ -73,7 +73,7 @@ body{
 }
 
 .cartao__conteudo__resposta {
-    transform: rotateY;(180deg);
+    transform: rotateY(180deg);
 }
 footer{
     background-color: black;
@@ -87,5 +87,5 @@ footer{
 footer p {
     text-align: center;
     font-size: 0.6rem;
-    margin-top; 0.5rem;
+    margin-top: 0.5rem;
 }

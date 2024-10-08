@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'My Melody',
-    'Quem é'My Melody?,
+    'Quem é My Melody?',
     'A My Melody nasceu na floresta de Mary Land. Ela é super legal e faz amizade facilmente. Sua marca registrada é um lindo capuz, que sua avó costurou especialmente para ela.',
 )
 
