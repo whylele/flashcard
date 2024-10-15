@@ -61,7 +61,7 @@ body{
     font-weight: 700;
 }
 
-.cartao:hover .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotatey(180deg);
 }
 
@@ -94,3 +94,5 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
+@media 
