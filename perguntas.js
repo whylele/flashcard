@@ -13,23 +13,23 @@ criaCartao(
 criaCartao(
     'Kuromi',
     'Quem é Kuromi',
-    'Kuromi é muito bagunceira e sempre causa confusões. Por trás de sua aparência radical, ela é super feminina. Adora escrever em seu diário e ler romances. Sua cor preferida é a preta. Ela é amiga da My Melody, mas encara essa amizade com uma certa competição.',
+    'Kuromi é muito bagunceira e sempre causa confusões. Por trás de sua aparência radical, ela é super feminina. Adora escrever em seu diário e ler romances. Ela é amiga da My Melody.',
 )
 
 criaCartao(
     'Cinnamoroll',
     'Quem é Cinnamoroll',
-    'O Cinnamoroll é um filhote de cachorro branco que se parece com uma nuvem macia. Ele tem o rabinho enrolado como um biscoitinho de canela (Cinnamon Roll) e pode voar batendo suas enormes orelhas. Ele é o mascote oficial do Café Cinnamon e gosta de tirar sonecas no colo dos clientes.',
+    'Ele é um filhote de cachorro que se parece com uma nuvem macia. Ele tem o rabinho enrolado como um biscoitinho de canela e pode voar batendo suas enormes orelhas. Ele é o mascote oficial do Café Cinnamon e gosta de tirar sonecas no colo dos clientes.',
 )
 
 criaCartao(
     'Pompompurin',
     'Quem é Pompompurin?',
-    'Pompompurin é um tranquilo filhotinho Golden Retriever que tem um enorme talento para cochilar. Ele ama a frase “vamos sair”, tanto quanto odeia a palavra “ficar”. Faz amizade com todos que encontra, e tem um sonho de ser realmente grande. Seu hobby é colecionar os sapatos de seus donos e tem seu próprio esconderijo secreto.',
+    'Pompompurin é um tranquilo filhotinho Golden Retriever que tem um enorme talento para cochilar. Ele ama a frase “vamos sair”, tanto quanto odeia a palavra “ficar”. Faz amizade com todos que encontra. Seu hobby é colecionar os sapatos de seus donos e tem seu próprio esconderijo secreto.',
 )
 
 criaCartao(
     'Keroppi',
     'Quem é Keroppi?',
-    'O Keroppi é um sapinho que mora com sua família em uma grande casa a beira do lago Donut. Ele e seus amigos adoram jogos, especialmente beisebol e bumerangue. Na maior parte do tempo, ele está com seu melhor amigo, a lesminha Denden.',
+    'O Keroppi é um sapinho que mora com sua família em uma casa a beira do lago Donut. Ele e seus amigos adoram jogos, especialmente beisebol e bumerangue. Na maior parte do tempo, ele está com seu melhor amigo, a lesminha Denden.',
 )
