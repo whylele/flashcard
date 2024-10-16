@@ -1,11 +1,11 @@
 :root{
-    --text-color: #1a191a;
+    --text-color: #35031f;
     --card-front-color: #fb4da7;
     --card-back-color: #f40072;
 }
 
 body{
-    background: url('img/wallpaper.jpg');
+    background: url('img/hello-kitty-with-friends.jpg');
     font-family: 'Bai Jamjuree';
 }
 
