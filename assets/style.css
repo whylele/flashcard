@@ -59,7 +59,7 @@ body{
 .cartao__conteudo__resposta p{
     color: var(--card-back-color);
     font-weight: 700;
-    height: 0.9vw;
+    font-size: 0.9vw;
 }
 
 .cartao.active .cartao__conteudo {
