@@ -1,7 +1,7 @@
 criaCartao(
     'Hello Kitty',
     'Quem è Hello Kitty',
-    'A Hello Kitty é uma garota feliz e divertida, que adora espalhar alegria pelo mundo. Ela mora com seus pais e sua irmã gêmea, Mimmy,em Londres, na Inglaterra. Seu lema é: “Muitos amigos nunca são demais!” Por isso, ela está sempre cercada de amigos e adora fazer novas amizades. Sua altura é equivalente a 5 maças empilhadas',
+    'A Hello Kitty é uma garota feliz e divertida, que adora espalhar alegria pelo mundo. Ela mora com seus pais e sua irmã gêmea, Mimmy,em Londres. Seu lema é: “Muitos amigos nunca são demais!” Por isso, ela adora fazer novas amizades. Sua altura é equivalente a 5 maças empilhadas',
 )
 
 criaCartao(

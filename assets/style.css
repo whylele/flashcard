@@ -49,7 +49,7 @@ body{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
-    font-size: 1.4vw;
+    font-size: 1.0vw;
 }
 
 .cartao__conteudo__pergunta p{
@@ -60,7 +60,8 @@ body{
 .cartao__conteudo__resposta p{
     color: var(--card-back-color);
     font-weight: 700;
-    font-size: 0.9vw;
+    font-size: 0.6vw;
+    height: 0.6vh;
 }
 
 .cartao.active .cartao__conteudo {
