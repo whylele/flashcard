@@ -1,5 +1,5 @@
 :root{
-    --text-color: #0a0a0a;
+    --text-color: #1a191a;
     --card-front-color: #fb4da7;
     --card-back-color: #f40072;
 }
@@ -60,6 +60,7 @@ body{
     color: var(--card-back-color);
     font-weight: 700;
     font-size: 0.9vw;
+    width: 50vw;
 }
 
 .cartao.active .cartao__conteudo {
