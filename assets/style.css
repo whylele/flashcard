@@ -97,7 +97,7 @@ footer p {
     margin-top: 0.5rem;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 1080px) {
     body {
     background: url('img/bg-mobile.webp');
     }
